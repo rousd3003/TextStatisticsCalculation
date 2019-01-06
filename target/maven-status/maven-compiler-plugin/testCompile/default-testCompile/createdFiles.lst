@@ -1,0 +1,5 @@
+com\betvictor\task\domain\TextStatisticsTest.class
+com\betvictor\task\TextStatisticsApplicationTests.class
+com\betvictor\task\controller\TextStatisticsControllerTest.class
+com\betvictor\task\service\TextStatisticsServiceTest.class
+com\betvictor\task\entity\StatisticsEntityTest.class

@@ -1,0 +1,10 @@
+com\betvictor\task\service\external\RandomTextService.class
+com\betvictor\task\service\external\RandomTextServiceImpl.class
+com\betvictor\task\TextStatisticsApplication.class
+com\betvictor\task\entity\StatisticsEntity.class
+com\betvictor\task\repository\TextStatisticsRepository.class
+com\betvictor\task\domain\TextStatistics.class
+com\betvictor\task\controller\TextStatisticsController.class
+com\betvictor\task\service\TextStatisticsService.class
+com\betvictor\task\configuration\TextStatisticsConfiguration.class
+com\betvictor\task\service\StatisticsHistoryService.class
